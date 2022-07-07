@@ -18,9 +18,3 @@ Don't use the features getRandomNumber, userIndex or rawfulfillRandomness
 
 Testnet Deployment address: 0x4bF2c7ccE1c024F8A3f30eA48C7830A3b8186546
 All the features described above are tested thoroughly by deploying it to Injected Web3 environment. The rewardBets feature is tested using Javascript VM environment using multiple users in same bet betting independently.
-
-## Submission
-
-Dyeus Web3 assignment <br />
-Sartaj Islam <br />
-14-02-2022
